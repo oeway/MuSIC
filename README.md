@@ -1,4 +1,5 @@
 # Multi-Scale Integrated Cell (MuSIC)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oeway/MuSIC/support-binder)
 
 MuSIC is a hierarchical map of eukaryotic cell architecture created from integrating immunofluorescence images in the Human Protein Atlas with affinity purification experiments from the BioPlex resource. Integration involves configuring each approach to produce a general measure of protein distance, then calibrating the two measures using machine learning.
 
